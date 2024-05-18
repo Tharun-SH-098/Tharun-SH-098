@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">🌍CONTACT:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tharun sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharun sh" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/tharunsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharun sh" height="30" width="40" /></a>
 <a href="https://instagram.com/tharun sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharun sh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/soul beats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soul beats" height="30" width="40" /></a>
+<a href="http://www.youtube.com/@Soul_Beats37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soul beats" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">💻TECH BASE:</h3>
