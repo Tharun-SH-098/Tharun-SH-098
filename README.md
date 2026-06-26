@@ -43,7 +43,7 @@
 
 # 👨‍💻 About Me
 
-```yaml
+
 Name: Tharun S H
 Education: MCA Student
 University: University of Mysore
@@ -59,9 +59,6 @@ Ask Me About:
   - JavaScript
   - Python
 
-Fun Fact:
-  - Workaholic 😄
-````
 
 # 💻 Skills
 
