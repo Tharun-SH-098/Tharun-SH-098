@@ -1,3 +1,4 @@
+HELLO EVERYONE
 ````md
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=THARUN+S+H;Full+Stack+Developer;MCA+Student;Tech+Enthusiast" />
