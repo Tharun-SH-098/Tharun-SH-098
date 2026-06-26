@@ -55,7 +55,7 @@
 </a>
 
 
-<a href="mailto:tharunsh56@gmail.com">
+<a href="mailto:tharunsh91@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </p>
@@ -100,7 +100,7 @@
 
 
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharun-SH-098&theme=tokyo-night"/>
@@ -121,7 +121,7 @@
 
 
 
-## 👀 Profile Views
+##  Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Tharun-SH-098&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
