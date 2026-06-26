@@ -3,53 +3,51 @@
 </h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | MCA Student | Tech Enthusiast
+ Full Stack Developer | MCA Student | Tech Enthusiast
 </h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Python+%7C+JavaScript+Learner;Open+Source+Contributor;Always+Learning+New+Technologies" />
 </p>
 
----
+
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 👨💻 About Me
+##  About Me
 
 🎓 MCA Student at Presidency college ,Bengaluru
 
-🌱 Currently Learning:
+ Currently Learning:
 - Python
 - JavaScript
 - React JS
 - Full Stack Development
 
-💡 Interested In:
+ Interested In:
 - Web Development
 - Software Development
 - UI/UX Design
 - Open Source Projects
 
-🤝 Looking to collaborate on:
+ Looking to collaborate on:
 - Full Stack Projects
 - Open Source Projects
 - Startup Ideas
 
-💬 Ask Me About:
+ Ask Me About:
 - HTML
 - CSS
 - JavaScript
 - Python
 
-📧 Email:
+ Email:
 **tharunsh56@gmail.com**
 
-⚡ Fun Fact:
-**I am a workaholic but funny 😄**
 
----
 
-## 🌐 Connect With Me
+
+##  Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/tharunsh">
@@ -62,9 +60,9 @@
 </a>
 </p>
 
----
 
-## 💻 Tech Stack
+
+##  Tech Stack
 
 <p align="center">
 
@@ -74,7 +72,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 
@@ -84,23 +82,23 @@
 
 </p>
 
----
 
-## 🔥 GitHub Streak
+
+##  GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharun-SH-098&theme=tokyonight"/>
 </p>
 
----
 
-## 🏆 GitHub Trophies
+
+##  GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Tharun-SH-098&theme=radical&row=1&column=7"/>
 </p>
 
----
+
 
 ## 📈 Contribution Graph
 
@@ -108,9 +106,8 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharun-SH-098&theme=tokyo-night"/>
 </p>
 
----
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 🌟 Full Stack Web Applications
 
@@ -122,7 +119,7 @@
 
 🌟 Startup Product Development
 
----
+
 
 ## 👀 Profile Views
 
@@ -130,7 +127,7 @@
 <img src="https://komarev.com/ghpvc/?username=Tharun-SH-098&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
----
+
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile ⭐
