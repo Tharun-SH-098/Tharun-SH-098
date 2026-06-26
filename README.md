@@ -1,53 +1,150 @@
-### Hi there 👋
+```md
+<h1 align="center">
+  Hi 👋, I'm Tharun S H
+</h1>
 
-<!--
-**Tharun-SH-098/Tharun-SH-098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🚀 Full Stack Developer | MCA Student | Tech Enthusiast
+</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hello Everyone</h1>
-<h3 align="center">A passionate about fullstack developement</h3>
-<img align="right" width="400"src="C:\Users\THARUN S H\Downloads\unnamed.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharun-sh-098&label=Profile%20views&color=0e75b6&style=flat" alt="tharun-sh-098" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharun-sh-098" alt="tharun-sh-098" /></a> </p>
-
-- 🔭 I’m currently **student at university of mysore**
-
-- 🌱 I’m currently learning **python,javascript**
-
-- 👯 I’m looking to collaborate on **multiple projects**
-
-- 🤝 I’m looking for help with **faculty to improve my knowledge**
-
-- 💬 Ask me about **HTML,CSS**
-
-- 📫 How to reach me **tharunsh56@gmail.com**
-
-- ⚡ Fun fact **I am workoholic but funny**
-
-<h3 align="left">🌍CONTACT:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/tharunsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharun sh" height="30" width="40" /></a>
-<a href="https://instagram.com/tharun sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharun sh" height="30" width="40" /></a>
-<a href="http://www.youtube.com/@Soul_Beats37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soul beats" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Python+%7C+JavaScript+Learner;Open+Source+Contributor;Always+Learning+New+Technologies" />
 </p>
 
-<h3 align="left">💻TECH BASE:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharun-sh-098&show_icons=true&locale=en&layout=compact" alt="tharun-sh-098" /></p>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharun-sh-098&show_icons=true&locale=en" alt="tharun-sh-098" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharun-sh-098&" alt="tharun-sh-098" /></p>
+🎓 MCA Student at University of Mysore
+
+🌱 Currently Learning:
+- Python
+- JavaScript
+- React JS
+- Full Stack Development
+
+💡 Interested In:
+- Web Development
+- Software Development
+- UI/UX Design
+- Open Source Projects
+
+🤝 Looking to collaborate on:
+- Full Stack Projects
+- Open Source Projects
+- Startup Ideas
+
+💬 Ask Me About:
+- HTML
+- CSS
+- JavaScript
+- Python
+
+📧 Email:
+**tharunsh56@gmail.com**
+
+⚡ Fun Fact:
+**I am a workaholic but funny 😄**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/tharunsh">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://www.youtube.com/@Soul_Beats37">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+<a href="mailto:tharunsh56@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,react,nodejs,mysql,git,github,vscode"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tharun-SH-098&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun-SH-098&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharun-SH-098&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Tharun-SH-098&theme=radical&row=1&column=7"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharun-SH-098&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🌟 Full Stack Web Applications
+
+🌟 Java GUI Projects
+
+🌟 Python Automation Tools
+
+🌟 AI & Machine Learning Projects
+
+🌟 Startup Product Development
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Tharun-SH-098&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
+
+<h4 align="center">
+🚀 Keep Learning • Keep Building • Keep Growing
+</h4>
+```
