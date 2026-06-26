@@ -16,7 +16,7 @@
 
 ## 👨💻 About Me
 
-🎓 MCA Student at University of Mysore
+🎓 MCA Student at Presidency college ,Bengaluru
 
 🌱 Currently Learning:
 - Python
