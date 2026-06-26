@@ -30,21 +30,9 @@
 - UI/UX Design
 - Open Source Projects
 
- Looking to collaborate on:
-- Full Stack Projects
-- Open Source Projects
-- Startup Ideas
-
- Ask Me About:
-- HTML
-- CSS
-- JavaScript
-- Python
-
+ 
  Email:
 **tharunsh56@gmail.com**
-
-
 
 
 ##  Connect With Me
@@ -130,9 +118,9 @@
 
 
 <h3 align="center">
-⭐ Thanks for visiting my profile ⭐
+ Thanks for visiting my profile 
 </h3>
 
 <h4 align="center">
-🚀 Keep Learning • Keep Building • Keep Growing
+ Keep Learning • Keep Building • Keep Growing
 </h4>
