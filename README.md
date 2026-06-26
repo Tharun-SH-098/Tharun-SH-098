@@ -1,158 +1,150 @@
 ```md
-<!-- =================== HEADER =================== -->
+<h1 align="center">
+  Hi 👋, I'm Tharun S H
+</h1>
 
-<div align="center">
+<h3 align="center">
+🚀 Full Stack Developer | MCA Student | Tech Enthusiast
+</h3>
 
-# 🌈 <font color="#00FFFF">THARUN S H</font>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Developer;💻+MCA+Student;🌟+Open+Source+Enthusiast;🔥+Always+Learning+New+Things" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,25:8A2BE2,50:FF1493,75:FF4500,100:FFD700&height=250&section=header&text=Welcome%20To%20My%20Profile&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Python+%7C+JavaScript+Learner;Open+Source+Contributor;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
-<div align="center">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 🌟 About Me
+## 👨‍💻 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-</div>
-
-✨ MCA Student at **University of Mysore**
+🎓 MCA Student at presidency college bengaluru
 
 🌱 Currently Learning:
-- Python 🐍
-- JavaScript ⚡
-- React JS ⚛️
-- Full Stack Development 🚀
+- Python
+- JavaScript
+- React JS
+- Full Stack Development
 
 💡 Interested In:
-- Web Development 🌐
-- Software Engineering 💻
-- UI/UX Design 🎨
-- Open Source 🌟
+- Web Development
+- Software Development
+- UI/UX Design
+- Open Source Projects
 
-🤝 Looking For:
-- Collaborations
-- Internships
-- Innovative Projects
+🤝 Looking to collaborate on:
+- Full Stack Projects
+- Open Source Projects
+- Startup Ideas
 
-📫 Email:
+💬 Ask Me About:
+- HTML
+- CSS
+- JavaScript
+- Python
+
+📧 Email:
 **tharunsh56@gmail.com**
 
 ⚡ Fun Fact:
-**Workaholic 😎 + Funny 😂**
+**I am a workaholic but funny 😄**
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
+<a href="https://www.linkedin.com/in/tharunsh">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+<a href="https://www.instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+<a href="https://www.youtube.com/@Soul_Beats37">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Soul_Beats37)
-
-[![Gmail](https://img.shields.io/badge/Gmail-FF4500?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharunsh56@gmail.com)
-
-</div>
-
----
-
-# 🚀 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,react,nodejs,mysql,mongodb,git,github,vscode&theme=dark" />
-
-</div>
+<a href="mailto:tharunsh56@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
 
 ---
 
-# 📊 GitHub Statistics
+## 💻 Tech Stack
 
-<div align="center">
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tharun-SH-098&show_icons=true&theme=radical&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,react,nodejs,mysql,git,github,vscode"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun-SH-098&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-# 🔥 GitHub Streak
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharun-SH-098&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tharun-SH-098&show_icons=true&theme=tokyonight"/>
 
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun-SH-098&layout=compact&theme=tokyonight"/>
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tharun-SH-098&theme=radical&margin-w=15&margin-h=15"/>
-
-</div>
+</p>
 
 ---
 
-# 📈 Contribution Graph
+## 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharun-SH-098&theme=react-dark&hide_border=true"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharun-SH-098&theme=tokyonight"/>
+</p>
 
 ---
 
-# 🎯 Coding Activity
+## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tharun-SH-098&theme=radical"/>
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Tharun-SH-098&theme=radical&row=1&column=7"/>
+</p>
 
 ---
 
-# 💎 Developer Quote
+## 📈 Contribution Graph
 
-<div align="center">
-
-> 💡 "Code. Learn. Build. Repeat."
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharun-SH-098&theme=tokyo-night"/>
+</p>
 
 ---
 
-# 👀 Visitors
+## 🚀 Featured Projects
 
-<div align="center">
+🌟 Full Stack Web Applications
 
-<img src="https://komarev.com/ghpvc/?username=Tharun-SH-098&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+🌟 Java GUI Projects
 
-</div>
+🌟 Python Automation Tools
+
+🌟 AI & Machine Learning Projects
+
+🌟 Startup Product Development
 
 ---
 
-<div align="center">
+## 👀 Profile Views
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,25:FF1493,50:00FFFF,75:8A2BE2,100:00FF7F&height=150&section=footer"/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Tharun-SH-098&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+</p>
 
-# ⭐ Thanks For Visiting ⭐
+---
 
-### 🚀 Dream • Build • Innovate • Inspire
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
 
-</div>
+<h4 align="center">
+🚀 Keep Learning • Keep Building • Keep Growing
+</h4>
 ```
