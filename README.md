@@ -80,13 +80,13 @@
 
 
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Tharun-SH-098&theme=radical&row=1&column=7"/>
 </p>
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharun-SH-098&theme=tokyo-night"/>
